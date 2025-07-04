@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "MappSDKGeotargeting"
-  s.version      = "6.0.5"
+  s.version      = "6.0.6"
   s.cocoapods_version = '>= 1.10'
   s.summary      = "Mapp SDK Geotargeting enables developers to harnest the full power of Mapp Geotargeted messaging on their iOS applications."
   s.description  = 	<<-DESC
