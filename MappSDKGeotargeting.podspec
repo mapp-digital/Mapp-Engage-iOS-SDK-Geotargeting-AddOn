@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "MappSDKGeotargeting"
-  s.version      = "6.0.6"
+  s.version      = "6.0.7"
   s.cocoapods_version = '>= 1.10'
   s.summary      = "Mapp SDK Geotargeting enables developers to harnest the full power of Mapp Geotargeted messaging on their iOS applications."
   s.description  = 	<<-DESC
@@ -17,7 +17,7 @@ Pod::Spec.new do |s|
   s.platform     = :ios, "10.0"
   s.ios.vendored_frameworks = "SDK/AppoxeeLocationServices.xcframework"
   s.preserve_paths = 'SDK/AppoxeeLocationServices.xcframework'
-  s.dependency 'MappSDK', '~> 6.0.0'
+  s.dependency 'MappSDK', '~> 6.1.0'
   s.requires_arc = true
 
 end

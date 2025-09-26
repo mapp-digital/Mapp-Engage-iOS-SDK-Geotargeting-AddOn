@@ -17,7 +17,7 @@ end
 
 ```ruby
 target 'project_name' do
-    pod 'MappSDKGeotargeting', :git => 'https://github.com/MappCloud/MappSDKGeotargeting.git', :tag => '6.0.6'
+    pod 'MappSDKGeotargeting', :git => 'https://github.com/MappCloud/MappSDKGeotargeting.git', :tag => '6.0.7'
 end
 ```
 
